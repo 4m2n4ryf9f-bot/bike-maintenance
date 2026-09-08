@@ -1,1 +1,1 @@
-{"name":"GARAGE WORKS","short_name":"GARAGE WORKS","start_url":"./","display":"standalone","background_color":"#f5f6f8","theme_color":"#f5f6f8","icons":[{"src":"icon-180.png","sizes":"180x180","type":"image/png"}]}
+{"name":"GARAGE WORKS","short_name":"GARAGE WORKS","start_url":"./","display":"standalone","background_color":"#f5f6f8","theme_color":"#17181a","icons":[{"src":"icon-180.png","sizes":"180x180","type":"image/png","purpose":"any maskable"}]}
